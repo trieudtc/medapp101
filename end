@@ -1,0 +1,73 @@
+[33mcommit 22d07b6bebf65406e80746aa4171235b193bccc8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:47:06 2023 +0700
+
+    resolve conflict 2
+
+[33mcommit 19ca56683d4f50ea4d4abe3ef4ee42598cea8bd5[m
+Merge: 7c9c982 bf3f330
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:44:38 2023 +0700
+
+    resolve conflict
+
+[33mcommit 7c9c982d7d2d56591a87e6418593615355bff065[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:41:54 2023 +0700
+
+    conlict test 2
+
+[33mcommit bf3f330138f28900e0501ff0d1847229caa92dbb[m
+Author: trieudtc <129258552+trieudtc@users.noreply.github.com>
+Date:   Wed Mar 29 14:39:26 2023 +0700
+
+    conflict test 2
+
+[33mcommit 549e6a9e1c8b0a2d7254695088609802c3e91ea1[m
+Author: trieudtc <129258552+trieudtc@users.noreply.github.com>
+Date:   Wed Mar 29 14:38:21 2023 +0700
+
+    test conflict
+
+[33mcommit 3a59aaff43634cb42271ff3095282ea79eff5b79[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:36:53 2023 +0700
+
+    test merge conflict
+
+[33mcommit e24ca489a0b523251add2046828b1ecd7b66bb22[m
+Merge: fc63f90 29da7d8
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:31:27 2023 +0700
+
+    Merge branch 'main' of https://github.com/trieudtc/medapp101
+
+[33mcommit 29da7d837dd8bf9460f211c6d3476931d9de2016[m
+Author: trieudtc <129258552+trieudtc@users.noreply.github.com>
+Date:   Wed Mar 29 14:30:14 2023 +0700
+
+    change style
+
+[33mcommit fc63f900700cbe048edc99fa006bc9a60a1edc20[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:28:48 2023 +0700
+
+    add !
+
+[33mcommit 2c60f4f207e4b26fd87626338b7dfe8b07b0ae0c[m
+Author: trieudtc <129258552+trieudtc@users.noreply.github.com>
+Date:   Wed Mar 29 14:25:17 2023 +0700
+
+    add h2
+
+[33mcommit 240c58340c6efe66e31618d4f0e7c4f81be196eb[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:22:26 2023 +0700
+
+    add a heading
+
+[33mcommit 8a0306fc1f2f72af1b6cc2dd915333a90c75c98f[m
+Author: unknown <trieudtc.ykhoahopnhan.vn@gmail.com>
+Date:   Wed Mar 29 14:00:25 2023 +0700
+
+    add medapp101.html
