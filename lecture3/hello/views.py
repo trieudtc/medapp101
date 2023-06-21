@@ -4,7 +4,7 @@ from django.shortcuts import HttpResponse
 def index(request):
     return render(request, "hello/index.html")
 def brian(request):
-    return HttpResponse("Hello, Brian!")
+    return HttpResponse("Hello, brian!")
 def greet(request, name):
     return render(request, "hello/greet.html", {
         "name": name.capitalize()
